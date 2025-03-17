@@ -3,6 +3,8 @@
 A Convolutional Neural Network (CNN) model to classify images of cats and dogs using TensorFlow/Keras.
 This project trains a deep learning model on the Cats vs. Dogs dataset and achieves high accuracy in classifying images.
 
+📌 Dataset can be download from here - https://www.kaggle.com/search?q=dogs+vs+cats+in%3Adatasets
+
 📌 Dataset Information
 Dataset: Cats vs. Dogs (from Kaggle or TensorFlow Datasets)
 Total Images: 25,000 images (cats & dogs)
